@@ -23,7 +23,7 @@ import Tkinter as tk
 import myNotebook as nb
 from config import config
 
-CLIENT_ID = '386149818227097610'
+CLIENT_ID = '561524718025310211'
 
 VERSION = '1.0.0'
 
